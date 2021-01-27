@@ -1,0 +1,6 @@
+[submodule "front-end-js"]
+	path = front-end-js
+	url = https://github.com/ZsaZsa6/front-end-js.git
+[submodule "fast-feast-repeat-api"]
+	path = fast-feast-repeat-api
+	url = https://github.com/ZsaZsa6/fast-feast-repeat-api.git
