@@ -1,4 +1,4 @@
-# Budget Buddy
+# Fast, Feast, Repeat
 
 A JavaScript frontend and Rails backend web application that allows user to keep track their fasting times and see them displayed on a graph
 ## Getting Started
@@ -33,7 +33,7 @@ After checking out the repo, run `bin/setup` to install dependencies. You can al
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/ZsaZsa6/js-project-fast-feast-repeat.  This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/Rkebede/budget-buddy/CODE_OF_CONDUCT.md).
+Bug reports and pull requests are welcome on GitHub at https://github.com/ZsaZsa6/js-project-fast-feast-repeat.  This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [CODE_OF_CONDUCT]https://github.com/ZsaZsa6/js-project-fast-feast-repeat/blob/2184ed942aa3d3958dc476f2d3d2cff01aba4aae/CODE_OF_CONDUCT.md
 
 ## License
 
@@ -41,4 +41,4 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the Fast, Feast, Repeat project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct]
+Everyone interacting in the Fast, Feast, Repeat project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [CODE_OF_CONDUCT]https://github.com/ZsaZsa6/js-project-fast-feast-repeat/blob/2184ed942aa3d3958dc476f2d3d2cff01aba4aae/CODE_OF_CONDUCT.md
